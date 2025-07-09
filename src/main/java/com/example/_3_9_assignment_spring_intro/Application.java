@@ -2,9 +2,6 @@ package com.example._3_9_assignment_spring_intro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-
 
 @SpringBootApplication
 public class Application {
